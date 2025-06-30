@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Nyaa",
+        "nsfw": "true",
+        "package": "nyaa",
+        "type": "bangumi",
+        "url": "nyaa.js",
+        "version": "v0.0.1",
+        "author": "yukidarumasan",
+        "lang": "en",
+        "webSite": "https://nyaa.si/"
+    }
+]
