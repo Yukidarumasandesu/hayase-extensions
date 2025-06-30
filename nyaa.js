@@ -6,7 +6,7 @@
 // @package     nyaa
 // @type        bangumi
 // @webSite     https://nyaa.si
-// @description Simple Nyaa torrent search & streaming source for Hayase (Miru)
+// @description Simple Nyaa torrent search & streaming source for Hayase
 // ==/MiruExtension==
 
 export default class extends Extension {
