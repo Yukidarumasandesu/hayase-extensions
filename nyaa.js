@@ -9,6 +9,7 @@
 // @description Simple Nyaa torrent search & streaming source for Hayase
 // ==/MiruExtension==
 
+
 export default class extends Extension {
   /**
    * Build a tiny filter menu (optional).
